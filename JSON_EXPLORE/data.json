@@ -1,0 +1,23 @@
+[{
+    "name": "Alice",
+    "age": 30,
+    "is_student": false,
+    "courses": ["Math", "Physics", "Chemistry"],
+    "address": {
+        "street": "123 Elm Street",
+        "city": "Wonderland",
+        "postal_code": "12345"
+    }
+},
+{
+    "name":"John",
+    "age": 45,
+    "is_student": true,
+    "courses":["Math","Science", "Chemistry"],
+    "address":{
+        "street":"134 Elm Street",
+        "city":"Wonderland",
+        "postal_code": "23232323"
+    }
+
+}]

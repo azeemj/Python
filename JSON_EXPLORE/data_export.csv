@@ -1,0 +1,3 @@
+,name,age,is_student,courses,address
+0,Alice,30,False,"['Math', 'Physics', 'Chemistry']","{'street': '123 Elm Street', 'city': 'Wonderland', 'postal_code': '12345'}"
+1,John,45,True,"['Math', 'Science', 'Chemistry']","{'street': '134 Elm Street', 'city': 'Wonderland', 'postal_code': '23232323'}"
